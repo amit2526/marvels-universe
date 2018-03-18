@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.util.GameUtilTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.006">
+  <properties/>
+  <testcase name="getUserNameTest" classname="org.game.rpg.util.GameUtilTest" time="0.002"/>
+  <testcase name="exitGameTest" classname="org.game.rpg.util.GameUtilTest" time="0.001"/>
+  <testcase name="winDisplayTest" classname="org.game.rpg.util.GameUtilTest" time="0.001"/>
+  <testcase name="gameOverTest" classname="org.game.rpg.util.GameUtilTest" time="0.001"/>
+  <system-out><![CDATA[
+PLEASE ENTER USER NAME
+
+
+Exiting Game
+You Win!!
+Game Over
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

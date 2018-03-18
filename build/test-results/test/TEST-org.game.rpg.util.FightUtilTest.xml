@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.util.FightUtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.002">
+  <properties/>
+  <testcase name="attack" classname="org.game.rpg.util.FightUtilTest" time="0.001"/>
+  <testcase name="attackWithOutWeapon_AndExpectException" classname="org.game.rpg.util.FightUtilTest" time="0.0"/>
+  <system-out><![CDATA[
+Hero -> Name: Thor, Weapon: ANTIGRAVITYGUN', attackPower=15, defencePower=2, Health: 122
+
+Enemy -> Name: Red Skull, Weapon: BLASTER_GUN', attackPower=30, defencePower=0, Health: 115
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

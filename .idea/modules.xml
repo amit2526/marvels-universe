@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/marvels-universe-master.iml" filepath="$PROJECT_DIR$/marvels-universe-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvels-universe-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/marvels-universe-master_main.iml" group="marvels-universe-master" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvels-universe-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/marvels-universe-master_test.iml" group="marvels-universe-master" />
+      <module fileurl="file://$PROJECT_DIR$/marvels-universe.iml" filepath="$PROJECT_DIR$/marvels-universe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvels-universe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/marvels-universe_main.iml" group="marvels-universe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvels-universe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/marvels-universe_test.iml" group="marvels-universe" />
     </modules>
   </component>
 </project>

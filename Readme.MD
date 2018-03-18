@@ -30,5 +30,5 @@ $ gradle build
 ## Run
 After the project is built please run the following command to launch the game
 ```
-$ java -jar ./build/libs/marvels-universe-0.0.1.jar
+$ java -jar ./build/libs/marvels-universe-1.0-SNAPSHOT.jar
 ```

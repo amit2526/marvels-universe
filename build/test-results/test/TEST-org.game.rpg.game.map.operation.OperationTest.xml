@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.game.map.operation.OperationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.003">
+  <properties/>
+  <testcase name="performOperationTest[0]" classname="org.game.rpg.game.map.operation.OperationTest" time="0.001"/>
+  <testcase name="performOperationTest[1]" classname="org.game.rpg.game.map.operation.OperationTest" time="0.001"/>
+  <testcase name="performOperationTest[2]" classname="org.game.rpg.game.map.operation.OperationTest" time="0.0"/>
+  <testcase name="performOperationTest[3]" classname="org.game.rpg.game.map.operation.OperationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

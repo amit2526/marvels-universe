@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.persistance.PersistenceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.109">
+  <properties/>
+  <testcase name="persist_ValidEntities_WillSaveGameSuccessfully" classname="org.game.rpg.persistance.PersistenceTest" time="0.082"/>
+  <testcase name="load" classname="org.game.rpg.persistance.PersistenceTest" time="0.025"/>
+  <system-out><![CDATA[Game Saved Successfully
+Game Saved Successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

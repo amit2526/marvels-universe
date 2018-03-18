@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.util.GetOperationTypeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.023">
+  <properties/>
+  <testcase name="getOperationTypeTest[0]" classname="org.game.rpg.util.GetOperationTypeTest" time="0.004"/>
+  <testcase name="getOperationTypeTest[1]" classname="org.game.rpg.util.GetOperationTypeTest" time="0.001"/>
+  <testcase name="getOperationTypeTest[2]" classname="org.game.rpg.util.GetOperationTypeTest" time="0.002"/>
+  <testcase name="getOperationTypeTest[3]" classname="org.game.rpg.util.GetOperationTypeTest" time="0.001"/>
+  <testcase name="getOperationTypeTest[4]" classname="org.game.rpg.util.GetOperationTypeTest" time="0.001"/>
+  <testcase name="getOperationTypeTest[5]" classname="org.game.rpg.util.GetOperationTypeTest" time="0.002"/>
+  <system-out><![CDATA[EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

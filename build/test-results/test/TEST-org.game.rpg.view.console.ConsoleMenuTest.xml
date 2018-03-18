@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.view.console.ConsoleMenuTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.019">
+  <properties/>
+  <testcase name="readUserChoiceForResume" classname="org.game.rpg.view.console.ConsoleMenuTest" time="0.016"/>
+  <testcase name="readUserChoiceForStart" classname="org.game.rpg.view.console.ConsoleMenuTest" time="0.001"/>
+  <testcase name="testShowMap" classname="org.game.rpg.view.console.ConsoleMenuTest" time="0.001"/>
+  <system-out><![CDATA[WELCOME TO MARVEL'S UNIVERSE
+
+CHOOSE MODE
+ 1. Start New Game
+ 2. Resume Saved Game
+ 3. Help Tips
+ 4. Story Mode
+Please put operation number
+WELCOME TO MARVEL'S UNIVERSE
+
+CHOOSE MODE
+ 1. Start New Game
+ 2. Resume Saved Game
+ 3. Help Tips
+ 4. Story Mode
+Please put operation number
+WELCOME TO MARVEL'S UNIVERSE
+
+CHOOSE MODE
+ 1. Start New Game
+ 2. Resume Saved Game
+ 3. Help Tips
+ 4. Story Mode
+Please put operation number
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,307 @@
+
+
+Hello Champion,
+
+SBelow are some guidelines provided which will help you to understand and play game.
+
+Start the game:
+1. Go to main menu.
+2. Choose New Game option.
+W3. Choose your Character. Every character comes with different set of skills and power.
+4. Enter user name.
+(5. Explore the arena to find your enemy.
+;6. When you will see enemy, you will see number of weapons.
+Ÿ7. Choose the weapon every time to attack enemy(Every weapon comes with different attack and defence power. So choose your weapon as per your need and wisely).
+X8. You can explore in map on health locations and increase your health to fight enemies.
+47. Explore and kill all the enemies to win the game.
+
+Save current game:
+$You can also save your current game.
+=Choose Save option at any point in game to save current game.
+
+Exit current game:
+BChoose Exit option at any point in game to exit from current game.
+
+Resume previous saved game:
+_Go to main menu. Choose Resume game option. Your game will start from where you left last time.
+
+
+
+ 1. Return to main menu
+ 2. Exit game
+Please put operation number
+
+Exiting Game
+
+
+Welcome to Marvels Universe
+
+*This is a console based role playing game.
+VWhere the universe is in danger and different planet is captured by different enemies.
+IAs a user you have to play game, fight with enemies and save the universe
+
+cUser has to choose a character from given character and create a profile to play and save universe.
+SUser can navigate from one planet to another planet to fight enemies and beat them.
+
+oEach Hero Character is equipped with different number of weapons, each have different attack and defence power.
+AUser can choose from the given no. of weapons to attack an enemy.
+
+vIf user want to increase his health then there are different planet in universe which help him to increase his health.
+oUser can visit these planets. After that user can again go to captured planets to kill enemies and save planet.
+
+<User can save game and resume game even after he exits game.
+1User can also exit game without even saving game.
+
+7Once all the enemies are killed user will win the game.
+
+
+Good Luck.
+
+
+
+ 1. Return to main menu
+ 2. Exit game
+Please put operation number
+
+Exiting Game
+	------------------------------	
+	|	     	     	     	     	     	|
+	|	     	     	     	     	     	|
+	|	     	     	     	     	     	|
+	|	     	     	     	     	     	|
+	|	     	     	     	     	     	|
+	------------------------------	
+	I'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User	
+	EXPLORE	
+	 1. Move Right	
+	 2. Move Left	
+	 3. Move Up	
+	 4. Move Down	
+	 5. Save	
+	 6. Exit	
+	Please put operation number	
+		You Win!!	
+	
+------------------------------	
+
+	
+|	
+     	
+<SPI>	
+     	
+     	
+     	
+|
+	
+|	
+     	
+     	
+     	
+     	
+     	
+|
+	
+|	
+     	
+     	
+     	
+     	
+     	
+|
+	
+|	
+     	
+     	
+     	
+     	
+     	
+|
+	
+|	
+     	
+     	
+     	
+     	
+     	
+|
+	
+------------------------------	
+
+	
+I'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User	
+
+	
+EXPLORE	
+
+	
+ 1. Move Right	
+
+	
+ 2. Move Left	
+
+	
+ 3. Move Up	
+
+	
+ 4. Move Down	
+
+	
+ 5. Save	
+
+	
+ 6. Exit	
+
+	
+Please put operation number	
+
+	
+You can not go to 	
+LEFT	
+!	
+
+	
+	Game Over	
+
+------------------------------
+|                         |
+|                    <DOC>|
+|     <BAT><< >>          |
+|     << >>               |
+|<LOK><MAG>          <HUL>|
+------------------------------
+I'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+------------------------------
+|          <MAG>          |
+|<LOK>               <DOC>|
+|     <BAT><DOC><HUL>     |
+|                    << >>|
+|<LOK><MAG>     << >><HUL>|
+------------------------------
+I'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+------------------------------
+|     <MAG><MAG>          |
+|<LOK>     << >>     <DOC>|
+|     <BAT><DOC><HUL>     |
+|<HUL>     << >>          |
+|<BAT><LOK>          <HUL>|
+------------------------------
+I'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+------------------------------
+|     <MAG><MAG>          |
+|<LOK>     <BAT>     <DOC>|
+|     <BAT><DOC><HUL>     |
+|<HUL>          <DOC>     |
+|<BAT><LOK><LOK><HUL><HUL>|
+------------------------------
+I'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+You can not go to DOWN!
+BCongratulations!! Your health Increases by 50. Your health now is 200
+
+You can not go to LEFT!
+BCongratulations!! Your health Increases by 50. Your health now is 200
+
+BCongratulations!! Your health Increases by 50. Your health now is 330
+
+You can not go to RIGHT!
+BCongratulations!! Your health Increases by 50. Your health now is 200
+
+You can not go to UP!
+#"Game Saved Successfully#"
+#$Game Saved Successfully#$
+&%
+&%YHero -> Name: Thor, Weapon: ANTIGRAVITYGUN', attackPower=15, defencePower=2, Health: 122
+&%
+&%\Enemy -> Name: Red Skull, Weapon: BLASTER_GUN', attackPower=30, defencePower=0, Health: 115
+&%
+&%
+)(
+)(PLEASE ENTER USER NAME)(
+)(
+)*
+)*Exiting Game)*
+)+	You Win!!)+
+),	Game Over),
+.-	EXPLORE
+.- 1. Move Right
+.- 2. Move Left
+.- 3. Move Up
+.- 4. Move Down
+.-
+ 5. Save
+.-
+ 6. Exit
+.-Please put operation number
+./	EXPLORE
+./ 1. Move Right
+./ 2. Move Left
+./ 3. Move Up
+./ 4. Move Down
+./
+ 5. Save
+./
+ 6. Exit
+./Please put operation number
+.0	EXPLORE
+.0 1. Move Right
+.0 2. Move Left
+.0 3. Move Up
+.0 4. Move Down
+.0
+ 5. Save
+.0
+ 6. Exit
+.0Please put operation number
+.1	EXPLORE
+.1 1. Move Right
+.1 2. Move Left
+.1 3. Move Up
+.1 4. Move Down
+.1
+ 5. Save
+.1
+ 6. Exit
+.1Please put operation number
+.2	EXPLORE
+.2 1. Move Right
+.2 2. Move Left
+.2 3. Move Up
+.2 4. Move Down
+.2
+ 5. Save
+.2
+ 6. Exit
+.2Please put operation number
+.3	EXPLORE
+.3 1. Move Right
+.3 2. Move Left
+.3 3. Move Up
+.3 4. Move Down
+.3
+ 5. Save
+.3
+ 6. Exit
+.3Please put operation number
+54WELCOME TO MARVEL'S UNIVERSE
+54
+54CHOOSE MODE54
+54 1. Start New Game54
+54 2. Resume Saved Game54
+54 3. Help Tips54
+54 4. Story Mode54
+54Please put operation number54
+56WELCOME TO MARVEL'S UNIVERSE
+56
+56CHOOSE MODE56
+56 1. Start New Game56
+56 2. Resume Saved Game56
+56 3. Help Tips56
+56 4. Story Mode56
+56Please put operation number56
+57WELCOME TO MARVEL'S UNIVERSE
+57
+57CHOOSE MODE57
+57 1. Start New Game57
+57 2. Resume Saved Game57
+57 3. Help Tips57
+57 4. Story Mode57
+57Please put operation number57

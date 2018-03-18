@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.game.map.MapViewTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.031">
+  <properties/>
+  <testcase name="viewMapTest[0]" classname="org.game.rpg.game.map.MapViewTest" time="0.018"/>
+  <testcase name="viewMapTest[1]" classname="org.game.rpg.game.map.MapViewTest" time="0.003"/>
+  <testcase name="viewMapTest[2]" classname="org.game.rpg.game.map.MapViewTest" time="0.002"/>
+  <testcase name="viewMapTest[3]" classname="org.game.rpg.game.map.MapViewTest" time="0.005"/>
+  <system-out><![CDATA[------------------------------
+|                         |
+|                    <DOC>|
+|     <BAT><< >>          |
+|     << >>               |
+|<LOK><MAG>          <HUL>|
+------------------------------
+'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+------------------------------
+|          <MAG>          |
+|<LOK>               <DOC>|
+|     <BAT><DOC><HUL>     |
+|                    << >>|
+|<LOK><MAG>     << >><HUL>|
+------------------------------
+'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+------------------------------
+|     <MAG><MAG>          |
+|<LOK>     << >>     <DOC>|
+|     <BAT><DOC><HUL>     |
+|<HUL>     << >>          |
+|<BAT><LOK>          <HUL>|
+------------------------------
+'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+------------------------------
+|     <MAG><MAG>          |
+|<LOK>     <BAT>     <DOC>|
+|     <BAT><DOC><HUL>     |
+|<HUL>          <DOC>     |
+|<BAT><LOK><LOK><HUL><HUL>|
+------------------------------
+'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

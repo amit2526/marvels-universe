@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.game.map.GameLoaderImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.058">
+  <properties/>
+  <testcase name="loadGameTest_WhenThereIsNoEnemyLeft" classname="org.game.rpg.game.map.GameLoaderImplTest" time="0.035"/>
+  <testcase name="loadGameTest_WhenUserHealthIsZero" classname="org.game.rpg.game.map.GameLoaderImplTest" time="0.01"/>
+  <testcase name="initializeGameLoadImpl_WithoutSettingUser" classname="org.game.rpg.game.map.GameLoaderImplTest" time="0.013"/>
+  <system-out><![CDATA[------------------------------
+|                         |
+|                         |
+|                         |
+|                         |
+|                         |
+------------------------------
+'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+You Win!!
+------------------------------
+|     <SPI>               |
+|                         |
+|                         |
+|                         |
+|                         |
+------------------------------
+'<< >>' represent Health, '<...>' represent Enemy, '>...<' represent User
+EXPLORE
+ 1. Move Right
+ 2. Move Left
+ 3. Move Up
+ 4. Move Down
+ 5. Save
+ 6. Exit
+Please put operation number
+You can not go to LEFT!
+Game Over
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

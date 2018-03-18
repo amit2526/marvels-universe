@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.game.map.operation.MoveUpCornerCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.003">
+  <properties/>
+  <testcase name="performRightOperation_WhenUserFindHealth" classname="org.game.rpg.game.map.operation.MoveUpCornerCaseTest" time="0.002"/>
+  <testcase name="performUpOperation_WhenUserCantGoUp" classname="org.game.rpg.game.map.operation.MoveUpCornerCaseTest" time="0.0"/>
+  <system-out><![CDATA[Congratulations!! Your health Increases by 50. Your health now is 200
+
+You can not go to UP!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

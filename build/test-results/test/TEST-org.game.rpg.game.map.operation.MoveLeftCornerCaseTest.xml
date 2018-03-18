@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.game.rpg.game.map.operation.MoveLeftCornerCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-18T22:36:14" hostname="Amit-PC" time="0.004">
+  <properties/>
+  <testcase name="performLeftOperation_WhenUserCantGoLeft" classname="org.game.rpg.game.map.operation.MoveLeftCornerCaseTest" time="0.0"/>
+  <testcase name="performRightOperation_WhenUserFindHealth" classname="org.game.rpg.game.map.operation.MoveLeftCornerCaseTest" time="0.0"/>
+  <system-out><![CDATA[You can not go to LEFT!
+Congratulations!! Your health Increases by 50. Your health now is 200
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
