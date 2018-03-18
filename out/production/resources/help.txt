@@ -1,0 +1,28 @@
+
+
+Hello Champion,
+
+Below are some guidelines provided which will help you to understand and play game.
+
+Start the game:
+1. Go to main menu.
+2. Choose New Game option.
+3. Choose your Character. Every character comes with different set of skills and power.
+4. Enter user name.
+5. Explore the arena to find your enemy.
+6. When you will see enemy, you will see number of weapons.
+7. Choose the weapon every time to attack enemy(Every weapon comes with different attack and defence power. So choose your weapon as per your need and wisely).
+8. You can explore in map on health locations and increase your health to fight enemies.
+7. Explore and kill all the enemies to win the game.
+
+Save current game:
+You can also save your current game.
+Choose Save option at any point in game to save current game.
+
+Exit current game:
+Choose Exit option at any point in game to exit from current game.
+
+Resume previous saved game:
+Go to main menu. Choose Resume game option. Your game will start from where you left last time.
+
+

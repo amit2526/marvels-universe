@@ -1,0 +1,25 @@
+
+
+Welcome to Marvels Universe
+
+This is a console based role playing game.
+Where the universe is in danger and different planet is captured by different enemies.
+As a user you have to play game, fight with enemies and save the universe
+
+User has to choose a character from given character and create a profile to play and save universe.
+User can navigate from one planet to another planet to fight enemies and beat them.
+
+Each Hero Character is equipped with different number of weapons, each have different attack and defence power.
+User can choose from the given no. of weapons to attack an enemy.
+
+If user want to increase his health then there are different planet in universe which help him to increase his health.
+User can visit these planets. After that user can again go to captured planets to kill enemies and save planet.
+
+User can save game and resume game even after he exits game.
+User can also exit game without even saving game.
+
+Once all the enemies are killed user will win the game.
+
+Good Luck.
+
+

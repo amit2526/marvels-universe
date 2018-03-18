@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/marvels-universe-master.iml" filepath="$PROJECT_DIR$/marvels-universe-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvels-universe-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/marvels-universe-master_main.iml" group="marvels-universe-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvels-universe-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/marvels-universe-master_test.iml" group="marvels-universe-master" />
+    </modules>
+  </component>
+</project>
